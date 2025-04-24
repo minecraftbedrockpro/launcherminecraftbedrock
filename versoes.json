@@ -1,0 +1,24 @@
+{
+  "versoes": [
+    { 
+      "versao": "1.21.80", 
+      "tipo": "preview",
+      "link": "https://github.com/seuusuario/seurepositorio/releases/tag/1.21.80" 
+    },
+    { 
+      "versao": "1.21.73.03", 
+      "tipo": "oficial",
+      "link": "https://github.com/seuusuario/seurepositorio/releases/tag/1.21.73.03" 
+    },
+    { 
+      "versao": "1.21.90.03", 
+      "tipo": "preview",
+      "link": "https://github.com/seuusuario/seurepositorio/releases/tag/1.21.90.03" 
+    },
+    { 
+      "versao": "1.21.72.01", 
+      "tipo": "oficial",
+      "link": "https://github.com/seuusuario/seurepositorio/releases/tag/1.21.72.01" 
+    }
+  ]
+}
