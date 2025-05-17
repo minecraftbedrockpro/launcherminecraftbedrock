@@ -1,24 +1,14 @@
 {
-  "versoes": [
-    { 
-      "versao": "1.21.80", 
-      "tipo": "preview",
-      "link": "https://github.com/seuusuario/seurepositorio/releases/tag/1.21.80" 
+  "versions": [
+    {
+      "name": "1.21.81.2-64BIT",
+      "url": "https://github.com/minecraftbedrockpro/launcherminecraftbedrock/releases/download/1.21.81.2-64BIT/1.21.81.2-64BIT.apk",
+      "filename": "1.21.81.2-64BIT.apk"
     },
-    { 
-      "versao": "1.21.73.03", 
-      "tipo": "oficial",
-      "link": "https://github.com/seuusuario/seurepositorio/releases/tag/1.21.73.03" 
-    },
-    { 
-      "versao": "1.21.90.03", 
-      "tipo": "preview",
-      "link": "https://anonymfile.com/f/4a0d0a78-bde9-41c2-86ec-39561075b8ff" 
-    },
-    { 
-      "versao": "1.21.72.01", 
-      "tipo": "oficial",
-      "link": "https://anonymfile.com/f/e1dfcb12-a33b-4167-b542-d08aa2ab59bf" 
+    {
+      "name": "1.21.81.2-32BIT",
+      "url": "https://github.com/minecraftbedrockpro/launcherminecraftbedrock/releases/download/1.21.81.2-32BIT/1.21.81.2-32BIT.apk",
+      "filename": "1.21.81.2-32BIT.apk"
     }
   ]
 }
