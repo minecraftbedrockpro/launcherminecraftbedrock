@@ -1,14 +1,77 @@
 {
-  "versions": [
-    {
-      "name": "1.21.81.2-64BIT",
-      "url": "https://github.com/minecraftbedrockpro/launcherminecraftbedrock/releases/download/1.21.81.2-64BIT/1.21.81.2-64BIT.apk",
-      "filename": "1.21.81.2-64BIT.apk"
-    },
-    {
-      "name": "1.21.81.2-32BIT",
-      "url": "https://github.com/minecraftbedrockpro/launcherminecraftbedrock/releases/download/1.21.81.2-32BIT/1.21.81.2-32BIT.apk",
-      "filename": "1.21.81.2-32BIT.apk"
-    }
-  ]
+  "1.21.81": {
+    "x64": "https://drive.google.com/file/d/1saDogoREr5u2ls-LC32v0uYFdQ56V85L/view?usp=sharing",
+    "x86": "https://drive.google.com/file/d/1T2ytKPCsPvLMlOS53sKdIwPDVEA5Y3WT/view?usp=sharing"
+  },
+  "1.21.80": {
+    "x64": "https://drive.google.com/file/d/1FtMpq-BD4q7yIb1an1bk4FkS_mUYaXzr/view?usp=sharing",
+    "x86": "https://drive.google.com/file/d/1nx1YcMkUo6TsAjGP-wd_NUIywdCki6T5/view?usp=sharing"
+  },  
+  "1.21.72": {
+    "x86": "https://drive.google.com/file/d/1ZkPPQY1fmpl2ASdzjqk8e6e2uMCIhmLO/view?usp=drive_link",
+    "x64": "https://drive.google.com/file/d/1rz9M0dWAKAfdC-4ulLrN8noPf5_BCbo7/view?usp=drive_link"
+  },
+  "1.21.71": {
+    "x86": "https://drive.google.com/file/d/1dnXHU9senOxYqE96D0uZzPbni-jRJmun/view?usp=drive_link",
+    "x64": "https://drive.google.com/file/d/1054yqsa0E0ykC8qZ7HG9YW3V1mK_6_vK/view?usp=drive_link"
+  },
+  "1.21.70": {
+    "x86": "https://drive.google.com/file/d/10YN4dbkovu1UErhAjlZmKSbiB1zO7Llw/view?usp=drive_link",
+    "x64": "https://drive.google.com/file/d/1bul1tuwmijRBf0BEzxkPP1HU2901Bv3B/view?usp=drive_link"
+  },
+  "1.21.62": {
+    "x86": "https://drive.google.com/file/d/18sYrsxNddjzPRvMKFm9q9CrAVQjwVsxu/view?usp=drive_link",
+    "x64": "https://drive.google.com/file/d/1nbKeSl5god7ohS5yuGAPucF8M76yQcuk/view?usp=drive_link"
+  },
+  "1.21.61": {
+    "x86": "https://drive.google.com/file/d/1ga8JO297CiNuYuvqboQYVdJ8Pg4sU6Du/view?usp=drive_link",
+    "x64": "https://drive.google.com/file/d/1EKtYtP1t2HHTR4yt8w4n27sD"
+  },
+  "1.21.60": {
+    "x86": "https://drive.google.com/file/d/1sTWn1JB45pdyYKS2aeMqJfinLrvoEGxu/view?usp=drive_link",
+    "x64": "https://drive.google.com/file/d/1LgsZNQxjO_6QGuReI7TRUuIcH8ozrHKq/view?usp=drive_link"
+  },
+  "1.21.51": {
+    "x86": "https://drive.google.com/file/d/1WFiuGBKFJ42Hca-PCRpCYf1tgEpPE1bp/view?usp=drive_link",
+    "x64": "https://drive.google.com/file/d/1UymOIXxrlsyTg-9H5PPoRTBTJ_BBYD-8/view?usp=drive_link"
+  },
+  "1.21.50": {
+    "x86": "https://drive.google.com/file/d/1amJv0rgZ5BGu9Zo-whKtK8CpX7zu2MHx/view?usp=drive_link",
+    "x64": "https://drive.google.com/file/d/1Fw4DCBlm64Kv04sXe3rKuQesTBmgC7qA/view?usp=drive_link"
+  },
+  "1.21.43": {
+    "x86": "https://drive.google.com/file/d/12cD_W9GcMf_-YD4sgb6RgNAZ7m34YPyE/view?usp=drive_link",
+    "x64": "https://drive.google.com/file/d/1PL4RMTit4aACmdJpO0mWs36tz5ivUlWc/view?usp=drive_link"
+  },
+  "1.21.41": {
+    "x86": "https://drive.google.com/file/d/1kCu3LASU0poTcILvF3P1Ih8kLVnsPXRO/view?usp=drive_link",
+    "x64": "https://drive.google.com/file/d/1rlGtiXE7dyi_HWyRTnwBlY-vmLr_Tmv2/view?usp=drive_link"
+  },
+  "1.21.40": {
+    "x86": "https://drive.google.com/file/d/11KDSGtiS5ZACJslemvW8LVUqDq82ExAD/view?usp=drive_link",
+    "x64": "https://drive.google.com/file/d/1RglmsU6p_V4P6hqDYA7X5oRmVyOjJ4nG/view?usp=drive_link"
+  },
+  "1.21.31": {
+    "x86": "https://drive.google.com/file/d/1cp5V4T9RvhseflzGs9ZXO1CSdKzpdtl4/view?usp=drive_link",
+    "x64": "https://drive.google.com/file/d/1Qc312ckSfh2VhUqD2kevrSbTsSVNzbT6/view?usp=drive_link"
+  },
+  "1.21.22": {
+    "x64": "https://drive.google.com/file/d/1jCXBfeGuU-IKlFgRS14hB359xtuxlktD/view?usp=drive_link"
+  },
+  "1.21.21": {
+    "x86": "https://drive.google.com/file/d/1YtCio6iHiqX2aM7707MPSNiSAO-T-lxE/view?usp=drive_link",
+    "x64": "https://drive.google.com/file/d/1sxKBdgq-p3pwHSmZwV5o9aBW2iSzip9z/view?usp=drive_link"
+  },
+  "1.21.20": {
+    "x86": "https://drive.google.com/file/d/15voozP3d97FplZka2C7EQ4Y9XRun_XMZ/view?usp=drive_link",
+    "x64": "https://drive.google.com/file/d/1ABKlZn70RXGLerb-mQx7lQZQ-BOPaJrl/view?usp=drive_link"
+  },
+  "1.21.2": {
+    "x86": "https://drive.google.com/file/d/1eanH4Ur2VKKjjOoDvQKggZfg0zclxwr9/view?usp=drive_link",
+    "x64": "https://drive.google.com/file/d/1ZoNmmaC0nHZ-mcTwsvqiXM8tE4vFks_Q/view?usp=drive_link"
+  },
+  "1.21.1": {
+    "x86": "https://drive.google.com/file/d/1wR4lepSgwFuM3GrbPth1DG6WP_VTYXGb/view?usp=drive_link",
+    "x64": "https://drive.google.com/file/d/1NS0jQ-CNUd-vqV7AxPNASZOAEE05FN7o/view?usp=drive_link"
+  }
 }
