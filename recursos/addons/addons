@@ -1,1 +1,14 @@
-a
+[
+  {
+    "id": "recurso1",
+    "nome": "recurso",
+    "icone": "https://link-para-imagem.png",
+    "descricao": "Textura com gráficos realistas para o jogo."
+  },
+  {
+    "id": "recurso2",
+    "nome": "recurso2",
+    "icone": "https://link-para-imagem2.png",
+    "descricao": "Visual cartoon divertido."
+  }
+]
