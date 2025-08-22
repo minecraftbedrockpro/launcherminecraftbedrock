@@ -3,10 +3,11 @@
     "id": "ForceCloseUI",
     "nome": "Antiga Interface",
     "icone": "https://raw.githubusercontent.com/minecraftbedrockpro/launcherminecraftbedrock/refs/heads/main/recursos/mods/InShot_20250822_060915808.jpg",
-    "descricao": "Adiciona veículos ao jogo.",
+    "descricao": "Remove a nova interface e adiciona a antiga clássica.",
+    "arquivoUrl": "https://gitlab.com/minecraftbedrockpro/recursos/-/raw/main/mods/libForceCloseOreUI.so?inline=false",
     "demonstracao": {
-      "descricao_detalhada": "Este mod adiciona carros, motos e caminhões ao Minecraft Bedrock.",
-      "manual": "Para usar, selecione o veículo no inventário e toque para posicionar.",
+      "descricao_detalhada": "Descrição Detalhada",
+      "manual": "Manual",
       "antes": "https://raw.githubusercontent.com/minecraftbedrockpro/launcherminecraftbedrock/refs/heads/main/recursos/mods/Screenshot_20250822-060310.png",
       "depois": "https://raw.githubusercontent.com/minecraftbedrockpro/launcherminecraftbedrock/refs/heads/main/recursos/mods/Screenshot_20250821-061732.png"
     }
