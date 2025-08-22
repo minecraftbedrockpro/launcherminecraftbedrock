@@ -3,9 +3,18 @@
     "id": "Azify Glow Em All",
     "nome": "Azify Glow Em All",
     "icone": "https://raw.githubusercontent.com/minecraftbedrockpro/launcherminecraftbedrock/refs/heads/main/recursos/img/638896693885851282.jpg",
-    "descricao": "Deixa o Minecraft com gráficos realistas.",
-    "imagem_antes": "https://link-antes.png",
-    "imagem_depois": "https://link-depois.png",
+    "descricao": "Shader leve para dispositivos fracos",
+    "imagem1": "https://raw.githubusercontent.com/minecraftbedrockpro/launcherminecraftbedrock/refs/heads/main/recursos/img/screenshot-197-png.png",
+    "imagem2": "https://raw.githubusercontent.com/minecraftbedrockpro/launcherminecraftbedrock/refs/heads/main/recursos/img/screenshot-197-png.png",
     "arquivoUrl": "https://gitlab.com/minecraftbedrockpro/recursos/-/raw/main/shaders/afgea-3.5.9-merged.mcpack?inline=false"
+  },
+  {
+    "id": "shader2",
+    "nome": "...",
+    "icone": "https://link-para-imagem2.png",
+    "descricao": "...",
+    "imagem1": "",
+    "imagem2": "",
+    "arquivoUrl": "..."
   }
 ]
