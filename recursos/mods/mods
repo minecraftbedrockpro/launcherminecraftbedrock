@@ -1,7 +1,7 @@
 [
   {
-    "id": "mod1",
-    "nome": "Mod de Veículos",
+    "id": "ForceCloseUI",
+    "nome": "Antiga Interface",
     "icone": "https://link-para-imagem.png",
     "descricao": "Adiciona veículos ao jogo.",
     "demonstracao": {
