@@ -1,8 +1,8 @@
 [
   {
     "id": "Ender_Megapack",
-    "nome": "Ender Megapack",
-    "icone": "https://raw.githubusercontent.com/minecraftbedrockpro/launcherminecraftbedrock/refs/heads/main/recursos/img/Ender_Megapack_Thumbnail%20(1).png",
+    "nome": "Pack do Fim",
+    "icone": "https://raw.githubusercontent.com/minecraftbedrockpro/launcherminecraftbedrock/refs/heads/main/recursos/img/Ender.png",
     "descricao": "Skins.",
     "arquivoUrl": "https://gitlab.com/minecraftbedrockpro/recursos/-/raw/main/skins/Ender_Megapack__skin_pack_.mcpack?inline=false"
   }
