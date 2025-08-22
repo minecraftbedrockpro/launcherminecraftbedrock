@@ -1,9 +1,9 @@
 [
   {
-    "id": "textura1",
-    "nome": "Textura Realista",
+    "id": "BaresBones",
+    "nome": "Bares Bones",
     "icone": "https://link-para-imagem.png",
-    "descricao": "Textura com gráficos realistas para o jogo.",
-    "arquivoUrl": "https://link-para-download.mcpack"
+    "descricao": "Textura com gráficos do trailer do minecraft.",
+    "arquivoUrl": "https://gitlab.com/minecraftbedrockpro/recursos/-/raw/main/texture/RP_BB_1-21-92.mcpack?inline=false"
   }
 ]
