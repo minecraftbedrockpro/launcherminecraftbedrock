@@ -1,14 +1,9 @@
 [
   {
-    "id": "Bare_Bones",
-    "nome": "Bare Bones",
+    "id": "textura1",
+    "nome": "Textura Realista",
     "icone": "https://link-para-imagem.png",
-    "descricao": "Bare Bones é um pacote de texturas com o propósito de trazer seu mundo e as texturas padrão do Minecraft para seus "ossos nus", combinando com os trailers do Minecraft. "
-  },
-  {
-    "id": "recurso2",
-    "nome": "recurso2",
-    "icone": "https://link-para-imagem2.png",
-    "descricao": "Visual cartoon divertido."
+    "descricao": "Textura com gráficos realistas para o jogo.",
+    "arquivoUrl": "https://link-para-download.mcpack"
   }
 ]
