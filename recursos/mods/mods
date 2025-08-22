@@ -4,7 +4,7 @@
     "nome": "Antiga Interface",
     "icone": "https://raw.githubusercontent.com/minecraftbedrockpro/launcherminecraftbedrock/refs/heads/main/recursos/mods/InShot_20250822_060915808.jpg",
     "descricao": "Remove a nova interface e adiciona a antiga clássica.",
-    "arquivoUrl": "https://gitlab.com/minecraftbedrockpro/recursos/-/raw/main/mods/libForceCloseOreUI.so?inline=false",
+    "arquivoUrl": "https://gitlab.com/minecraftbedrockpro/recursos/-/raw/main/mods/libBetterResourcePackManager-arm64.so?inline=false",
     "demonstracao": {
       "descricao_detalhada": "Descrição Detalhada",
       "manual": "Manual",
