@@ -2,7 +2,7 @@
   {
     "id": "texturaingame",
     "nome": "Textura Rápida",
-    "icone": "https://raw.githubusercontent.com/minecraftbedrockpro/launcherminecraftbedrock/refs/heads/main/recursos/mods/InShot_20250822_060915808.jpg",
+    "icone": "https://raw.githubusercontent.com/minecraftbedrockpro/launcherminecraftbedrock/refs/heads/main/recursos/img/638867744889068197.png",
     "descricao": "Coloque textura e desative sem sair do mundo/server online.",
     "arquivoUrl": "https://gitlab.com/minecraftbedrockpro/recursos/-/raw/main/mods/libBetterResourcePackManager-arm64.so?inline=false",
     "demonstracao": {
