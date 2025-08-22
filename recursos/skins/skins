@@ -1,14 +1,9 @@
 [
   {
-    "id": "recurso1",
-    "nome": "recurso",
-    "icone": "https://link-para-imagem.png",
-    "descricao": "Textura com gráficos realistas para o jogo."
-  },
-  {
-    "id": "recurso2",
-    "nome": "recurso2",
-    "icone": "https://link-para-imagem2.png",
-    "descricao": "Visual cartoon divertido."
+    "id": "Ender_Megapack",
+    "nome": "Ender Megapack",
+    "icone": "https://raw.githubusercontent.com/minecraftbedrockpro/launcherminecraftbedrock/refs/heads/main/recursos/img/Ender_Megapack_Thumbnail.png",
+    "descricao": "Skins.",
+    "arquivoUrl": "https://gitlab.com/minecraftbedrockpro/recursos/-/raw/main/skins/Ender_Megapack__skin_pack_.mcpack?inline=false"
   }
 ]
