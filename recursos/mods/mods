@@ -7,8 +7,8 @@
     "demonstracao": {
       "descricao_detalhada": "Este mod adiciona carros, motos e caminhões ao Minecraft Bedrock.",
       "manual": "Para usar, selecione o veículo no inventário e toque para posicionar.",
-      "antes": "https://link-antes.png",
-      "depois": "https://link-depois.png"
+      "antes": "https://raw.githubusercontent.com/minecraftbedrockpro/launcherminecraftbedrock/refs/heads/main/recursos/mods/Screenshot_20250822-060310.png",
+      "depois": "https://raw.githubusercontent.com/minecraftbedrockpro/launcherminecraftbedrock/refs/heads/main/recursos/mods/Screenshot_20250821-061732.png"
     }
   }
 ]
