@@ -2,7 +2,7 @@
   "mods": [
     {
       "nome": "BetterResourcePackManager",
-      "arquivoUrl": "https://gitlab.com/minecraftbedrockpro/recursos/-/raw/main/mods/libBetterResourcePackManager-arm64.so?inline=false"
+      "arquivoUrl": "https://github.com/minecraftbedrockpro/launcherminecraftbedrock/raw/refs/heads/main/recursos/mods/libBetterResourcePackManager-arm64.so"
     },
     {
       "nome": "ForceCloseUI",
