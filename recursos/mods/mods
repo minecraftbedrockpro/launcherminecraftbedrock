@@ -1,15 +1,16 @@
-[
-  {
-    "id": "texturaingame",
-    "nome": "Textura Rápida",
-    "icone": "https://raw.githubusercontent.com/minecraftbedrockpro/launcherminecraftbedrock/refs/heads/main/recursos/img/638867744889068197.png",
-    "descricao": "Coloque textura e desative sem sair do mundo/server online.",
-    "arquivoUrl": "https://gitlab.com/minecraftbedrockpro/recursos/-/raw/main/mods/libBetterResourcePackManager-arm64.so?inline=false",
-    "demonstracao": {
-      "descricao_detalhada": "Descrição Detalhada",
-      "manual": "Manual",
-      "antes": "https://raw.githubusercontent.com/minecraftbedrockpro/launcherminecraftbedrock/refs/heads/main/recursos/mods/Screenshot_20250822-060310.png",
-      "depois": "https://raw.githubusercontent.com/minecraftbedrockpro/launcherminecraftbedrock/refs/heads/main/recursos/mods/Screenshot_20250821-061732.png"
+{
+  "mods": [
+    {
+      "nome": "BetterResourcePackManager",
+      "arquivoUrl": "https://gitlab.com/minecraftbedrockpro/recursos/-/raw/main/mods/libBetterResourcePackManager-arm64.so?inline=false"
+    },
+    {
+      "nome": "ForceCloseUI",
+      "arquivoUrl": "https://github.com/QYCottage/ForceCloseOreUI/releases/download/v1.0.4/libForceCloseOreUI.so"
+    },
+    {
+      "nome": "Ativar Shaders",
+      "arquivoUrl": "https://github.com/QYCottage/BetterRenderDragon/releases/download/v1.6.3/libBetterRenderDragon.so"
     }
-  }
-]
+  ]
+}
