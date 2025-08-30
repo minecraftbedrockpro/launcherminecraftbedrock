@@ -2,19 +2,16 @@
   {
     "nome": "BetterResourcePackManager",
     "arquivoUrl": "https://github.com/minecraftbedrockpro/launcherminecraftbedrock/raw/refs/heads/main/recursos/mods/libBetterResourcePackManager-arm64.so",
-    "tipo": "mod",
     "descricao": "Texturas rápidas + Skins 4D"
   },
   {
     "nome": "ForceCloseUI",
     "arquivoUrl": "https://github.com/QYCottage/ForceCloseOreUI/releases/download/v1.0.4/libForceCloseOreUI.so",
-    "tipo": "mod",
     "descricao": "Forçar Antiga interface"
   },
   {
     "nome": "Ativar Shaders",
     "arquivoUrl": "https://github.com/QYCottage/BetterRenderDragon/releases/download/v1.6.3/libBetterRenderDragon.so",
-    "tipo": "mod",
     "descricao": "Forçar carregamento de Shaders"
   }
 ]
