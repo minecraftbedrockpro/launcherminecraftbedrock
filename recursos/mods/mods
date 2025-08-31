@@ -2,7 +2,7 @@
   {
     "nome": "BetterResourcePackManager",
     "arquivoUrl": "https://github.com/minecraftbedrockpro/launcherminecraftbedrock/raw/refs/heads/main/recursos/mods/libBetterResourcePackManager-arm64.so",
-    "descricao": "Texturas rápidas + Skins 4D"
+    "descricao": "Forçar carregamento Skins 4D + Texturas rápidas"
   },
   {
     "nome": "ForceCloseUI",
