@@ -5,5 +5,96 @@
     "icone": "https://raw.githubusercontent.com/minecraftbedrockpro/launcherminecraftbedrock/refs/heads/main/recursos/img/Ender.png",
     "descricao": "Skins.",
     "arquivoUrl": "https://gitlab.com/minecraftbedrockpro/recursos/-/raw/main/skins/Ender_Megapack__skin_pack_.mcpack?inline=false"
+  },
+  {
+    "id": "Skin_1",
+    "nome": "Desconhecido",
+    "icone": "https://raw.githubusercontent.com/minecraftbedrockpro/launcherminecraftbedrock/refs/heads/main/recursos/img/skins/-1-Skin5D.png",
+    "descricao": "Skins.",
+    "arquivoUrl": "https://github.com/minecraftbedrockpro/launcherminecraftbedrock/raw/refs/heads/main/recursos/files/-1-Skin5D.mcpack"
+  },
+  {
+    "id": "Skin_2",
+    "nome": "Desconhecido",
+    "icone": "https://raw.githubusercontent.com/minecraftbedrockpro/launcherminecraftbedrock/refs/heads/main/recursos/img/skins/-2-Skin.png",
+    "descricao": "Skins.",
+    "arquivoUrl": "https://github.com/minecraftbedrockpro/launcherminecraftbedrock/raw/refs/heads/main/recursos/files/-2-Skin.mcpack"
+  },
+  {
+    "id": "Skin_3",
+    "nome": "Roblox",
+    "icone": "https://raw.githubusercontent.com/minecraftbedrockpro/launcherminecraftbedrock/refs/heads/main/recursos/img/skins/-3-Skin.PNG",
+    "descricao": "Skins.",
+    "arquivoUrl": "https://github.com/minecraftbedrockpro/launcherminecraftbedrock/raw/refs/heads/main/recursos/files/-3-Skin.mcpack"
+  },
+  {
+    "id": "Skin_4",
+    "nome": "Desconhecido",
+    "icone": "https://raw.githubusercontent.com/minecraftbedrockpro/launcherminecraftbedrock/refs/heads/main/recursos/img/skins/-4-Skin.png",
+    "descricao": "Skins.",
+    "arquivoUrl": "https://github.com/minecraftbedrockpro/launcherminecraftbedrock/raw/refs/heads/main/recursos/files/-4-Skin.mcpack"
+  },
+  {
+    "id": "Skin_5",
+    "nome": "Duolingo",
+    "icone": "https://raw.githubusercontent.com/minecraftbedrockpro/launcherminecraftbedrock/refs/heads/main/recursos/img/skins/-5-Skin.png",
+    "descricao": "Skins.",
+    "arquivoUrl": "https://github.com/minecraftbedrockpro/launcherminecraftbedrock/raw/refs/heads/main/recursos/files/-5-Skin.mcpack"
+  },
+  {
+    "id": "Skin_6",
+    "nome": "Desconhecido",
+    "icone": "https://raw.githubusercontent.com/minecraftbedrockpro/launcherminecraftbedrock/refs/heads/main/recursos/img/skins/-6-Skin.PNG",
+    "descricao": "Skins.",
+    "arquivoUrl": "https://github.com/minecraftbedrockpro/launcherminecraftbedrock/raw/refs/heads/main/recursos/files/-6-Skin.mcpack"
+  },
+  {
+    "id": "Skin_7",
+    "nome": "Desconhecido",
+    "icone": "https://raw.githubusercontent.com/minecraftbedrockpro/launcherminecraftbedrock/refs/heads/main/recursos/img/skins/-7-Skin.png",
+    "descricao": "Skins.",
+    "arquivoUrl": "https://github.com/minecraftbedrockpro/launcherminecraftbedrock/raw/refs/heads/main/recursos/files/-7-Skin.mcpack"
+  },
+  {
+    "id": "Skin_8",
+    "nome": "Desconhecido",
+    "icone": "https://raw.githubusercontent.com/minecraftbedrockpro/launcherminecraftbedrock/refs/heads/main/recursos/img/skins/-8-Skin.PNG",
+    "descricao": "Skins.",
+    "arquivoUrl": "https://github.com/minecraftbedrockpro/launcherminecraftbedrock/raw/refs/heads/main/recursos/files/-8-Skin.mcpack"
+  },
+  {
+    "id": "Skin_9",
+    "nome": "Desconhecido",
+    "icone": "https://raw.githubusercontent.com/minecraftbedrockpro/launcherminecraftbedrock/refs/heads/main/recursos/img/skins/-9-Skin.png",
+    "descricao": "Skins.",
+    "arquivoUrl": "https://github.com/minecraftbedrockpro/launcherminecraftbedrock/raw/refs/heads/main/recursos/files/-9-Skin.mcpack"
+  },
+  {
+    "id": "Skin_10",
+    "nome": "Desconhecido",
+    "icone": "https://raw.githubusercontent.com/minecraftbedrockpro/launcherminecraftbedrock/refs/heads/main/recursos/img/skins/-10-Skin.png",
+    "descricao": "Skins.",
+    "arquivoUrl": "https://github.com/minecraftbedrockpro/launcherminecraftbedrock/raw/refs/heads/main/recursos/files/-10-Skin.mcpack"
+  },
+  {
+    "id": "Skin_11",
+    "nome": "Desconhecido",
+    "icone": "https://raw.githubusercontent.com/minecraftbedrockpro/launcherminecraftbedrock/refs/heads/main/recursos/img/skins/-11-Skin.png",
+    "descricao": "Skins.",
+    "arquivoUrl": "https://github.com/minecraftbedrockpro/launcherminecraftbedrock/raw/refs/heads/main/recursos/files/-11-Skin.mcpack"
+  },
+  {
+    "id": "Skin_12",
+    "nome": "Sonic++",
+    "icone": "https://raw.githubusercontent.com/minecraftbedrockpro/launcherminecraftbedrock/refs/heads/main/recursos/img/skins/-12-Skin.PNG",
+    "descricao": "Skins.",
+    "arquivoUrl": "https://github.com/minecraftbedrockpro/launcherminecraftbedrock/raw/refs/heads/main/recursos/files/-12-Skin.mcpack"
+  },
+  {
+    "id": "Skin_13",
+    "nome": "Roblox",
+    "icone": "https://raw.githubusercontent.com/minecraftbedrockpro/launcherminecraftbedrock/refs/heads/main/recursos/img/skins/-13-Skin.PNG",
+    "descricao": "Skins.",
+    "arquivoUrl": "https://github.com/minecraftbedrockpro/launcherminecraftbedrock/raw/refs/heads/main/recursos/files/-13-Skin.mcpack"
   }
 ]
